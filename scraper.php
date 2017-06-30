@@ -1,5 +1,5 @@
 <?
-// Ireland PlanningAlerts scraper for Cavan County Council
+// Ireland PlanningAlerts scraper for Clare County Council
 // Uses LGMA shared backend for map data at ArcGIS.com
 //
 // John Handelaar 2017-06-27
